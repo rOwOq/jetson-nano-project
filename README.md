@@ -1,19 +1,19 @@
-Jetson Nano Project
+# Jetson Nano Project
 
 Jetson Nano 환경과 Python 딥러닝 모델을 활용하여
 이미지를 분석하고 C# WinForms 애플리케이션과 연동하는 프로젝트입니다.
 
-⚙️ 주요 기능
+## ⚙️ 주요 기능
 
-📷 이미지 캡처/선택 → WinForms에서 카메라 이미지 또는 파일 선택
+## 📷 이미지 캡처/선택 → WinForms에서 카메라 이미지 또는 파일 선택
 
-🤖 AI 모델 추론 → Python(predict.py) 실행 후 결과 반환
+## 🤖 AI 모델 추론 → Python(predict.py) 실행 후 결과 반환
 
-🔗 C# ↔ Python 연동 → Process.Start()로 Python 스크립트 실행, 결과를 WinForms에서 읽어 출력
+## 🔗 C# ↔ Python 연동 → Process.Start()로 Python 스크립트 실행, 결과를 WinForms에서 읽어 출력
 
-📊 예측 결과 시각화 → WinForms UI에서 즉시 표시
+## 📊 예측 결과 시각화 → WinForms UI에서 즉시 표시
 
-📂 프로젝트 구조
+## 📂 프로젝트 구조
 jetson-nano-project/
 ├─ predict.py            # Python 추론 스크립트 (PIL, Torch/Tensorflow 등 활용)
 ├─ requirements.txt      # Python 패키지 목록
@@ -21,7 +21,7 @@ jetson-nano-project/
 ├─ Program.cs            # C# 엔트리 포인트
 └─ README.md
 
-🛠️ 사용 기술
+## 🛠️ 사용 기술
 
 Python : Pillow, Torch/TensorFlow, OpenCV 등 (이미지 처리 & 추론)
 
