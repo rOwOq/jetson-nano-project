@@ -1,0 +1,27 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+/Debug/
+/Release/
+*.ide/
+
+# Rider/IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS / 기타
+Thumbs.db
+.DS_Store
+*.zip
+*.bak

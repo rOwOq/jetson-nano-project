@@ -1,0 +1,11 @@
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.csproj.AssemblyReference.cache
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.Properties.Resources.resources
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.csproj.GenerateResource.cache
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.csproj.CoreCompileInputs.cache
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\bin\Debug\jetsonNano.exe.config
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\bin\Debug\jetsonNano.exe
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\bin\Debug\jetsonNano.pdb
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.exe
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.pdb
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\jetsonNano.exe.config
+C:\Users\ai\Desktop\jetson-nano-project\jetsonNano\jetsonNano\obj\Debug\RoadSimulation.Form1.resources

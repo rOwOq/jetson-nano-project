@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|c:\\users\\ai\\desktop\\jetson-nano-project\\jetsonnano\\jetsonnano\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|solutionrelative:jetsonnano\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|c:\\users\\ai\\desktop\\jetson-nano-project\\jetsonnano\\jetsonnano\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|solutionrelative:jetsonnano\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|c:\\users\\ai\\desktop\\jetson-nano-project\\jetsonnano\\jetsonnano\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|solutionrelative:jetsonnano\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|c:\\users\\ai\\desktop\\jetson-nano-project\\jetsonnano\\jetsonnano\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DCC824B-4B8E-4D09-B0D0-BF685D4E59BB}|jetsonNano\\jetsonNano.csproj|solutionrelative:jetsonnano\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Program.cs",
+              "RelativeDocumentMoniker": "jetsonNano\\Program.cs",
+              "ToolTip": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Program.cs",
+              "RelativeToolTip": "jetsonNano\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:54:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.cs",
+              "RelativeDocumentMoniker": "jetsonNano\\Form1.cs",
+              "ToolTip": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.cs",
+              "RelativeToolTip": "jetsonNano\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:39:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "jetsonNano\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.Designer.cs",
+              "RelativeToolTip": "jetsonNano\\Form1.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:50:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.cs",
+              "RelativeDocumentMoniker": "jetsonNano\\Form1.cs",
+              "ToolTip": "C:\\Users\\ai\\Desktop\\jetson-nano-project\\jetsonNano\\jetsonNano\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "jetsonNano\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:38:58.922Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
