@@ -62,4 +62,4 @@ Windows 환경에서는 Anaconda Python 경로를 맞게 지정해야 함
 
 김병철
 시뮬레이션 시연 영상 : https://blog.naver.com/ehowl169/224022916922
-2025년 Jetson Nano AI 프로젝트
+<br>2025년 Jetson Nano AI 프로젝트
